@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "하둡 개요"
+title: "Hadoop 개요"
 categories:
 - Hadoop
 ---
